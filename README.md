@@ -12,9 +12,9 @@ Premium cinematic snooker landing page. This first milestone is a static HTML/CS
 
 No build step or environment variables are required for this static landing page.
 
-## Hero video
+## Hero image
 
-The hero includes a real HTML video element configured for muted autoplay, looping and inline playback. Licensed footage is not bundled yet. Add a properly licensed MP4 at `media/boardman-hero.mp4` and ensure the video source in `index.html` points to `/media/boardman-hero.mp4`. Until then, the CSS snooker illustration remains the visual fallback; it is not represented as video footage.
+The hero now uses a static, optimized snooker image at `media/boardman-hero.webp`; no background video is used. The source image is a crop of the design reference provided for this landing page.
 
 ## Scope and safety
 
